@@ -1,0 +1,4 @@
+homework,5
+reading,4
+phone calls,1
+organize,3
